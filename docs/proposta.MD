@@ -162,24 +162,14 @@ Caso não pretenda utilizar recursos externos, escreva:
 
 ## 13. Principais dificuldades esperadas
 
-Liste as dificuldades que o grupo acredita que poderá enfrentar.
-
-Exemplos:
-
-- movimentação do jogador;
-- colisão entre objetos;
-- controle de tempo;
-- criação do ranking;
-- organização do código;
-- uso do GitHub;
-- testes;
-- exibição de textos na tela.
-
 Dificuldades previstas:
 
-- Dificuldade 1:
-- Dificuldade 2:
-- Dificuldade 3:
+- Dificuldade 1: Movimentação da cobrinha;
+- Dificuldade 2: Colisão entre as paredes do labirinto;
+- Dificuldade 3: Colisão com o próprio corpo da cobrinha;
+- Dificuldade 4: Organização dos códigos;
+- Dificuldade 5: Testes;
+- Dificuldade 6: Elementos visuais
 
 ## 14. Escopo mínimo para a entrega final
 
