@@ -114,22 +114,15 @@ Descrição:
 
 ## 10. Controles previstos
 
-Informe os comandos que serão utilizados pelo jogador.
-
-Exemplo:
-
 - Seta para cima: mover para cima
 - Seta para baixo: mover para baixo
 - Seta para esquerda: mover para esquerda
 - Seta para direita: mover para direita
-- Espaço: realizar ação
+- Tecla W: mover para cima
+- Tecla S: mover para baixo
+- Tecla A: mover para esquerda
+- Tecla D: mover para direita
 - ESC: sair do jogo
-
-Controles do grupo:
-
-- Tecla/comando:
-- Tecla/comando:
-- Tecla/comando:
 
 ## 11. Organização inicial do código
 
