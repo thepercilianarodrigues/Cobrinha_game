@@ -60,19 +60,7 @@ Regras do grupo:
 
 ## 7. Condição de vitória
 
-Explique como o jogador vence ou conclui o jogo.
-
-Exemplos:
-
-- atingir determinada pontuação;
-- chegar ao final da fase;
-- sobreviver até o tempo acabar;
-- responder uma quantidade mínima de perguntas;
-- quebrar todos os blocos.
-
-Condição de vitória:
-
-> Escreva aqui.
+- O jogador vence ao concluir os 3 níveis do jogo.
 
 ## 8. Condição de derrota ou encerramento
 
