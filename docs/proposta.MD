@@ -8,10 +8,10 @@ Cobrinha Game
 
 Liste os integrantes do grupo.
 
-- Nome 1:
-- Nome 2:
-- Nome 3:
-- Nome 4:
+- Emanuelly Oliveira Arruda Cabral
+- Luiz Rithiely Barbosa Silva
+- Perciliana Rosa Adalgiza Batista Rodrigues
+- Vanessa Paiva Costa
 
 ## 3. Tipo de jogo
 
