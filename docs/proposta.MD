@@ -64,19 +64,9 @@ Regras do grupo:
 
 ## 8. Condição de derrota ou encerramento
 
-Explique como o jogador perde ou quando a partida termina.
-
-Exemplos:
-
-- perder todas as vidas;
-- acabar o tempo;
-- colidir com determinado obstáculo;
-- errar muitas perguntas;
-- deixar a bola cair, no caso de Breakout ou Pong.
-
-Condição de derrota ou encerramento:
-
-> Escreva aqui.
+- Perder todas as vidas;
+- Colidir com o próprio corpo da cobrinha;
+- Colidir com as paredes do labirinto.
 
 ## 9. Elementos previstos no jogo
 
