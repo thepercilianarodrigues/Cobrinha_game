@@ -143,22 +143,10 @@ Organização planejada:
 
 ## 12. Recursos externos previstos
 
-Informe se o grupo pretende utilizar imagens, sons, fontes, tutoriais ou códigos externos.
-
-Exemplo:
-
-- imagens obtidas de banco gratuito;
-- sons gratuitos;
-- tutorial usado apenas como referência;
-- fonte personalizada.
-
-Recursos previstos:
-
-> Escreva aqui.
-
-Caso não pretenda utilizar recursos externos, escreva:
-
-> Não pretendemos utilizar recursos externos.
+- Imagens geradas por IA ou de banco gratuito;
+- Sons gratuitos;
+- Tutoriais do YouTube, caso necessário;
+- Fontes personalizadas.
 
 ## 13. Principais dificuldades esperadas
 
