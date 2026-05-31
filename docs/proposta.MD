@@ -15,26 +15,7 @@ Liste os integrantes do grupo.
 
 ## 3. Tipo de jogo
 
-Indique o tipo de jogo que será desenvolvido.
-
-Exemplos:
-
-- jogo de desviar de obstáculos;
-- jogo de coleta de itens;
-- labirinto simples;
-- jogo de perguntas e respostas;
-- jogo de memória;
-- Pong;
-- Snake;
-- Breakout;
-- nave desviando de meteoros;
-- corrida simples com obstáculos;
-- jogo de clique rápido;
-- jogo de sobrevivência simples.
-
-Tipo escolhido pelo grupo:
-
-> Escreva aqui.
+- Jogo estilo Snake
 
 ## 4. Descrição geral do jogo
 
