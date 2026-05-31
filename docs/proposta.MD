@@ -1,16 +1,8 @@
 # Proposta Inicial do Jogo
 
-Este documento deve ser preenchido pelo grupo na Semana 1 do projeto.
-
-A proposta deve apresentar uma ideia simples, clara e viável para ser desenvolvida com Python e Pygame dentro do prazo disponível.
-
 ## 1. Nome provisório do jogo
 
-Escreva aqui o nome provisório do jogo.
-
-Exemplo:
-
-> Corrida dos Obstáculos
+Cobrinha Game
 
 ## 2. Integrantes do grupo
 
