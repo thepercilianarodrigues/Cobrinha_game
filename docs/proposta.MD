@@ -52,23 +52,11 @@ Objetivo:
 
 ## 6. Regras principais
 
-Liste as principais regras do jogo.
-
-Exemplo:
-
-- O jogador começa com 3 vidas.
-- Cada moeda coletada vale 10 pontos.
-- Cada colisão com obstáculo remove 1 vida.
-- A partida termina quando as vidas chegam a zero.
-- O jogador vence se alcançar 100 pontos.
-
 Regras do grupo:
 
-- Regra 1:
-- Regra 2:
-- Regra 3:
-- Regra 4:
-- Regra 5:
+- Regra 1: O jogador começa com 3 vidas.
+- Regra 2: Cada colisão com o própio corpo da cobrinha ou colisão com as paredes do labirinto remove 1 vida.
+- Regra 3: A partida termina quando as vidas chegam a zero.
 
 ## 7. Condição de vitória
 
